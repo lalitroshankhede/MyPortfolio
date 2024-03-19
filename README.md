@@ -4,7 +4,7 @@ Welcome to my personal portfolio! Here you'll find information about me, my educ
 
 ## About Me
 
-I am a passionate and motivated individual with a strong interest in Software Development. I love to learn New Technologies, Build Projects, Web Designing, Cooking, Travelling and Watching Web Series. With a keen eye for detail and a dedication to continuous learning, I'm always excited to take on new challenges and explore innovative solutions.
+I am a passionate and motivated individual with a strong interest in Software Development. I love to learn New Technologies, Build Projects, Web Designing, Cooking and Travelling. With a keen eye for detail and a dedication to continuous learning, I'm always excited to take on new challenges and explore innovative solutions.
 
 ## Education
 
@@ -13,11 +13,11 @@ I am a passionate and motivated individual with a strong interest in Software De
 
 ## Experience
 
-### Software Engineer - CitiusTech Healthcare Technology  - 2021-2023
+### Software Engineer 
 
 In this role, I worked as Backned Java Developer to build, maintain and test Java Based Applications along with implemented SQL Queries using MS SQL Server.
 
-### Intern Java Developer - ICEICO Technologies - 2019
+### Intern Java Developer 
 
 During academic period i have completed my internship in ICEICO Technologies to worked as Intern Java Developer ,
 I learned and implement Core Java and Object Oriented Fundamentals in real world projects, fixing bugs and test applitions using Junit.
@@ -29,12 +29,12 @@ I learned and implement Core Java and Object Oriented Fundamentals in real world
 
 ## Projetcs 
 
- 1. Changing Background Images using CSS Animations
- 2. Electricity Billing System (Java) 
- 3. Made To Perfect Laundry Service Website
- 4. Digital Clock (Java) 
- 5. CA Club Test Series Website for CA/CS Students
- 6. Made To Perfect Admin Panel (Dashboard)
+ **Changing Background Images using CSS Animations**,
+ **Electricity Billing System (Java)**, 
+ **Made To Perfect Laundry Service Website**,
+ **Digital Clock (Java)**, 
+ **CA Club Test Series Website for CA/CS Students**,
+ **Made To Perfect Admin Panel (Dashboard)**
  
 ## Contact
 
