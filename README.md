@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio (Personal)
 
 Welcome to my personal portfolio! Here you'll find information about me, my education, work experience, skills, and some of the personal projects I've worked on.
 
